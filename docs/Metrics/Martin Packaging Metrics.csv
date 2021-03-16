@@ -1,0 +1,8 @@
+Martin packaging metrics,Sun, 8 Nov 2020 16:42:29 EST
+Package,A,Ca,Ce,D,I
+"com.webcheckers",0.00,0,2,0.00,1.00
+"com.webcheckers.application",0.00,15,19,0.44,0.56
+"com.webcheckers.model",0.00,25,12,0.68,0.36
+"com.webcheckers.ui",0.00,23,96,0.19,0.81
+"com.webcheckers.util",0.00,2,1,0.67,0.50
+

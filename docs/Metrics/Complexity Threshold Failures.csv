@@ -1,0 +1,15 @@
+Complexity metrics,Sun, 8 Nov 2020 16:40:48 EST
+Method,ev(G),iv(G),v(G)
+"com.webcheckers.application.GameLobby.kingPieces()",1,9,9
+"com.webcheckers.model.MoveValidator.ValidateMove(Move,COLOR,BoardView)",8,15,15
+"com.webcheckers.model.MoveValidator.isAvailableCapture(BoardView,COLOR)",6,5,6
+"com.webcheckers.model.MoveValidator.pieceCanCapture(BoardView,COLOR,Position)",6,9,10
+"com.webcheckers.ui.GetGameRoute.handle(Request,Response)",6,9,9
+"com.webcheckers.ui.PostAccountDetailsRoute.handle(Request,Response)",6,15,17
+"com.webcheckers.ui.PostSignInRoute.handle(Request,Response)",6,6,7
+
+Class,OCavg,WMC
+"com.webcheckers.application.GameLobby",2.00,50
+"com.webcheckers.model.MoveValidator",4.22,38
+"com.webcheckers.ui.PostAccountDetailsRoute",4.67,14
+

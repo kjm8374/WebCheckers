@@ -1,0 +1,43 @@
+Lines of code metrics,Sun, 8 Nov 2020 16:42:04 EST
+Package,LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec)
+"",26,"9,471",26,"7,041",0,"2,430"
+"META-INF",2,2,2,2,0,0
+"com",n/a,"5,964",n/a,"3,534",n/a,"2,430"
+"com.webcheckers",122,"5,964",122,"3,534",0,"2,430"
+"com.webcheckers.application","1,488","1,488",769,769,719,719
+"com.webcheckers.model","1,465","1,465",989,989,476,476
+"com.webcheckers.ui","2,791","2,791","1,556","1,556","1,235","1,235"
+"com.webcheckers.util",98,98,98,98,0,0
+"public",n/a,"3,239",n/a,"3,239",n/a,0
+"public.css",259,259,259,259,0,0
+"public.img",375,375,375,375,0,0
+"public.js",5,"2,605",5,"2,605",0,0
+"public.js.game",401,"2,600",401,"2,600",0,0
+"public.js.game.model",199,199,199,199,0,0
+"public.js.game.modes",n/a,"1,544",n/a,"1,544",n/a,0
+"public.js.game.modes.play",925,925,925,925,0,0
+"public.js.game.modes.replay",335,335,335,335,0,0
+"public.js.game.modes.spectator",284,284,284,284,0,0
+"public.js.game.util",456,456,456,456,0,0
+"spark",n/a,240,n/a,240,n/a,0
+"spark.template",n/a,240,n/a,240,n/a,0
+"spark.template.freemarker",240,240,240,240,0,0
+
+Module,L(Groovy),L(HTML),L(J),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"checkers-app",0,0,"5,964",295,"10,080","7,041","2,430","7,757","5,265","1,909"
+
+FileType,LOC,NCLOC
+".gitignore (GitIgnore)",14,14
+"CSS",259,259
+"Java","5,964","3,932"
+"JavaScript","2,605","2,605"
+"Manifest",2,2
+"Markdown",275,275
+"Properties",26,5
+"Scalable Vector Graphics",375,371
+"Text",265,n/a
+"XML",295,294
+
+Project,L(Groovy),L(HTML),L(J),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"project",0,0,"5,964",295,"10,080","7,041","2,430","7,757","5,265","1,909"
+

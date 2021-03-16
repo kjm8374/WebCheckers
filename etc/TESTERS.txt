@@ -1,0 +1,9 @@
+Steps to build and start the application:
+1: Run "mvn compile exec:java"
+2: Open a web browser to localhost:4567
+3: For additional sessions, open browsers to 127.0.0.1:4567, 127.0.0.2:4567, 127.0.0.3:4567, etc.
+
+Note: Testing multiple sessions using 127.0.0.*:4567 addresses requires your system to be configured to have the entire
+127.0.0.* block set up as loopback addresses. Windows systems are set up like this by default. Macs are not, so this
+will not work on a Mac. As a workaround, you may test one additional session using each browser's "incognito mode"
+function and any further sessions using different web browsers.
